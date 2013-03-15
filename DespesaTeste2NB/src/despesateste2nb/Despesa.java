@@ -8,7 +8,6 @@ package despesateste2nb;
  *
  * @author Karlos
  */
-public class RegistoDespesaController {
-    
+public class Despesa {
     
 }
